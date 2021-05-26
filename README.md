@@ -1,2 +1,2 @@
 # ReactNativeCoursesMain-MealsToGo
-React Native Course Udemy Project: https://expo.io/@erenm20/MealsToGo
+React Native Course Main Project / Link: https://expo.io/@erenm20/MealsToGo
